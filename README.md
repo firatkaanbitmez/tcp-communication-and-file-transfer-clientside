@@ -1,4 +1,4 @@
-# TCP_CLIENT
+# TCP_CLIENT --(Recommended)++please download the latest released release version.
 
 In this project, it is designed for file transfer and communication over a specific IP and port over local network connection.
 
@@ -12,6 +12,10 @@ second part TCP_CLIENT
 
 THIS SOURCE CODE version 1.0.0 first beta 
 
-THIS source code needs additional resources to work
+THIS source code needs additional resources to work 
 
-PLEASE LAST RELEASE VERSION DOWNLOAD
+This Files Added source Code
+
+https://disk.yandex.com.tr/d/tfXo4_5N8Rk0tg
+
+
